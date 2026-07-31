@@ -31,7 +31,62 @@
           "icon": "newspaper"
         }
       ]
-    }
+    },
+    "languages": [
+      {
+        "language": "zh",
+        "default": true,
+        "pages": [
+          {
+            "group": "开始使用",
+            "pages": []
+          },
+          {
+            "group": "开始使用",
+            "pages": [
+              "index",
+              "quickstart"
+            ]
+          },
+          {
+            "group": "任正非文集",
+            "icon": "book",
+            "pages": [
+              {
+                "group": "2025",
+                "pages": [
+                  "renzhengfei/2025/20251114",
+                  "renzhengfei/2025/20250610"
+                ]
+              },
+              {
+                "group": "2024",
+                "pages": [
+                  "renzhengfei/2024/20241014"
+                ]
+              },
+              {
+                "group": "2023",
+                "pages": [
+                  "renzhengfei/2023/20230919",
+                  "renzhengfei/2023/20230728",
+                  "renzhengfei/2023/20230707",
+                  "renzhengfei/2023/20230224"
+                ]
+              },
+              {
+                "group": "2022",
+                "pages": [
+                  "renzhengfei/2022/2022823",
+                  "renzhengfei/2022/20220625",
+                  "renzhengfei/2022/20220529"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
   },
   "logo": {
     "light": "/logo/light.svg",
